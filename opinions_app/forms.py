@@ -28,3 +28,4 @@ class OpinionForm(FlaskForm):
     )
 
     submit = SubmitField('Добавить')
+
